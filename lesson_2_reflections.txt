@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 I dont know... Let's get done with GIT today. Shall we?
+
+The staging area is different than the working directory because, we can choose which file or directory
+we want to add to the commit so that the commit may make a logical sense.

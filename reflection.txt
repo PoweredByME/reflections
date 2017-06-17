@@ -13,3 +13,5 @@ We can use the "git log" command to see the ID of each of the commit and with th
 difference in the two commits easily.
 
 I want to version control all my code etc...
+
+I have made a git repo
