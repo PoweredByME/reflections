@@ -19,3 +19,5 @@ I have made a git repo
 The staging area can be used to upload the only files that are changed.
 
 The branches can be helpful when I want to make a new version of my code but I want the original one to stay intact
+
+The diagram help us know about the branching in the git repository.
