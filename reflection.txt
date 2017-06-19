@@ -3,7 +3,7 @@ This is the lesson 1 of the version control and learning git.
 The better version controlling will make me a better coder. Because, in this way I will be able to find the bugs in my
 updated code easily and swiftly.
 
-The pros of a manual commit is that it can be made whenever I feel like. The cons on the otherside are that maunally I 
+The pros of a manual commit is that it can be made whenever I feel like. The cons on the otherside are that maunally I
 might not commit logically rendering version control useless and inefficient.
 
 Git saves all the files because in one commit many files might be affected. But, since Google Docs is not made to handle
