@@ -1,1 +1,3 @@
 Started a new .txt file on the github with the name lesson_3_reflections.txt
+
+I want to manually do the pulling of the repository because in this way my work will not be affected in any way.
